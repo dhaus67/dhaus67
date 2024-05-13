@@ -4,3 +4,4 @@
 
 [![CV](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.dhaus.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-haus)
+![Visitor Count](https://profile-counter.glitch.me/dhaus67/count.svg)
